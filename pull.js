@@ -15,3 +15,10 @@ function mul(a,b){
     return a*b
 }
 mul(2,5)
+
+
+function div(a,b){
+    return a/b
+}
+
+div(a,b)
